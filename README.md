@@ -1,2 +1,2 @@
 # Vigenere 
-'$\int_0^1 x^2\,dx$'
+  `$$ax^2 + bx + c = 0$$`
